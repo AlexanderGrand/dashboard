@@ -1,6 +1,6 @@
-# Dashboard V1.0
+# Dashboard React Web V1.0
 
-Implementar graficos en un dashboard con un solo componente unico, y usar Boostrap como maquetador, para ello, hay que importar el componente "Dashboard ",el cual encapsula la logica de otras librerias y manejo de props.
+Implementar graficos en un dashboard con un solo componente unico, y usar Bootstrap como maquetador, para ello, hay que importar el componente "Dashboard ",el cual encapsula la logica de otras librerias y manejo de props.
 
 La data es estatica , pero puede ser editado a conveniencia para ser alimentados desde un server remoto.
 
